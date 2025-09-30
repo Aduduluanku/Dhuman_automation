@@ -1,0 +1,16 @@
+<suite name="Test Suite">
+    <listeners>
+        <listener class-name="listeners.SimpleListener"/>
+    </listeners>
+
+    <test name="Regression Test">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="pages.CouponPage">
+                <methods>
+                    <include name ="createCoupon" invocationCount="5"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
