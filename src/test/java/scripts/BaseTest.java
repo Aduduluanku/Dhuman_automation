@@ -44,14 +44,14 @@ public class BaseTest {
         return driver;
     }
 
-    @AfterMethod
-    public void tearDown() {
-        if (driver != null) {
-            logger.info("Closing browser and quitting WebDriver...");
-            driver.quit();
-        }
-
-    }
+//    @AfterMethod
+//    public void tearDown() {
+//        if (driver != null) {
+//            logger.info("Closing browser and quitting WebDriver...");
+//            driver.quit();
+//        }
+//
+//    }
 }
 
 
