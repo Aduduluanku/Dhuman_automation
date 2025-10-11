@@ -3,6 +3,7 @@ package pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -23,7 +24,6 @@ public class MemberPage {
     }
 
     public void chosingTier(String tier) {
-        //driver.findElement(By.xpath("//input[@id='tier']")).click();
         String listTier = "//span[@class='ant-select-selection-item' and text()='%s']";
         driver.findElement(By.xpath(String.format(listTier, tier))).click();
     }
@@ -76,8 +76,24 @@ public class MemberPage {
     }
 
     public void findZipCode() throws InterruptedException {
-// Click nút mở popup
+        // 1️⃣ Nhấn nút mở tìm kiếm địa chỉ
         driver.findElement(By.xpath("//button[normalize-space()='우편번호찾기']")).click();
+        driver.switchTo().frame(1);
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
+
+        WebElement searchBox = wait.until(ExpectedConditions.elementToBeClickable(By.id("region_name")));
+        searchBox.sendKeys("서울특별시 강남구 테헤란로 152");
+
+        // 4️⃣ Nhấn nút tìm kiếm
+        driver.findElement(By.xpath("//span[text()='검색']")).click();
+
+        // 5️⃣ Chọn kết quả đầu tiên
+        wait.until(ExpectedConditions.elementToBeClickable(
+                By.xpath("//span[contains(text(),'테헤란로 152')]"))
+        ).click();
 
     }
+
+
+
 }

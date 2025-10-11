@@ -8,7 +8,7 @@ public class LoginTest extends BaseTest{
     public void loginComplete(){
         LoginPage loginPage = new LoginPage(driver);
 
-        loginPage.login("admin","123456");
+            loginPage.login("admin","123456");
 
     }
 }
