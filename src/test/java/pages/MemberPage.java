@@ -1,22 +1,22 @@
 package pages;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 import java.util.Random;
 
 
 public class MemberPage {
-
     WebDriver driver;
     Actions actions;
 
     public MemberPage(WebDriver driver) {
         this.driver = driver;
-        this.actions = new Actions(driver);
     }
-
 
     public void accessCreateMemberPage() {
         driver.findElement(By.xpath("//li[@url=\"/members/member-management/member-list\"]")).click();
@@ -24,6 +24,7 @@ public class MemberPage {
     }
 
     public void chosingTier(String tier) {
+        //driver.findElement(By.xpath("//input[@id='tier']")).click();
         String listTier = "//span[@class='ant-select-selection-item' and text()='%s']";
         driver.findElement(By.xpath(String.format(listTier, tier))).click();
     }
@@ -54,10 +55,16 @@ public class MemberPage {
     public void inputEmail(String infront, String below) {
         driver.findElement(By.xpath("//input[@id=\"emailPrefix\"]")).sendKeys(infront);
         driver.findElement(By.xpath("//input[@id=\"emailDomain\"]")).sendKeys(below);
+
+//        driver.findElement(By.xpath("//div[@class=\"ant-form-item mb-0 min-w-[100px] w-[200px] css-qyo09v ant-form-item-has-success ant-form-item-horizontal\"]")).click();
+//        //String locatorMail = "(//span[@class=\"ant-select-selection-item\"])[last()]and text()='%s']";
+//        driver.findElement(By.xpath(String.format(locator, "hotmail.com"))).click();
     }
+
 
     public void tickAnnounceMail() {
         driver.findElement(By.xpath("//label[normalize-space()='정보/이벤트 MAIL 수신에 동의합니다']//input[@type='checkbox']")).click();
+
 
     }
 
@@ -66,7 +73,7 @@ public class MemberPage {
     }
 
     public void tickAnnounceSms() {
-        driver.findElement(By.xpath("//label[normalize-space()='정보/이벤트 SMS 수신에 동의합니다']//input[@type='checkbox']")).click();
+        driver.findElement(By.xpath("//label[normalize-space()='정보/이벤트 MAIL 수신에 동의합니다']//input[@type='checkbox']")).click();
     }
 
     public void inputAddress(String address) {
@@ -146,10 +153,5 @@ public class MemberPage {
                 maxDay = 31;
         }
 
-        int day = random.nextInt(maxDay) + 1;
-        String petDob = String.format("%04d-%02d-%02d", year, month, day);
-        driver.findElement(By.xpath("//input[@id='petDob']")).sendKeys(petDob);
-
     }
-
 }
