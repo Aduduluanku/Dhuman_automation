@@ -15,7 +15,6 @@ public class MemberTest extends BaseTest {
 
         String timestamp = String.valueOf(System.currentTimeMillis());
         String uid = timestamp.substring(timestamp.length() - 6);
-
         String userId = "user" + uid;
         String userName = "userName_" + uid;
         String emailFront = "mailReal" + uid;
@@ -27,11 +26,7 @@ public class MemberTest extends BaseTest {
         memberPage.accessCreateMemberPage();
 
         memberPage.chosingTier("Friends Dumon");
-
         memberPage.chosingApprove("승인");
-//        memberPage.inputID("user", "luanku");
-//        memberPage.inputPwd("Thangchobo123");
-//        memberPage.inputEmail("keke", "ss");
 
         memberPage.inputID(userId, userName);
         memberPage.inputPwd("Thangchobo123");
@@ -42,7 +37,17 @@ public class MemberTest extends BaseTest {
         memberPage.inputPhoneNumber(phoneNumber);
         memberPage.tickAnnounceSms();
 
-        memberPage.findZipCode();
+        memberPage.inputAddress("서울특별시 강남구 테헤란로 152");
+
+        memberPage.choseGender("Male");
+        memberPage.DOB();
+        memberPage.interesting("Grilled whole meat");
+
+        memberPage.scrollToBottom();
+        memberPage.addRegistrationPath();
+        memberPage.chosingDog("Other");
+        memberPage.chosingCat("Other");
+        memberPage.petDOB();
     }
 
 
