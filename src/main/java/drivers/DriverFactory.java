@@ -20,7 +20,6 @@ public class DriverFactory {
         switch (browser.toLowerCase()) {
             case "chrome":
                 WebDriverManager.chromedriver().setup();
-
                 ChromeOptions chromeOptions = new ChromeOptions();
 
                 // ✅ Cho phép nội dung không an toàn (insecure content)
@@ -38,7 +37,6 @@ public class DriverFactory {
 
                 // ✅ Chế độ ẩn danh
                 chromeOptions.addArguments("--incognito");
-
                 driver = new ChromeDriver(chromeOptions);
                 break;
 

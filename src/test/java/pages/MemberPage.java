@@ -6,14 +6,17 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Wait;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
+import java.time.Duration;
+import java.time.Instant;
 import java.util.Random;
 
 
 public class MemberPage {
     WebDriver driver;
     Actions actions;
-
     public MemberPage(WebDriver driver) {
         this.driver = driver;
     }
@@ -23,13 +26,18 @@ public class MemberPage {
         driver.findElement(By.xpath("(//span[text()='회원 등록'])[last()]")).click();
     }
 
-    public void chosingTier(String tier) {
-        //driver.findElement(By.xpath("//input[@id='tier']")).click();
-        String listTier = "//span[@class='ant-select-selection-item' and text()='%s']";
+    public void choosingTier(String tier) {
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+        WebElement dropdown = wait.until(ExpectedConditions.elementToBeClickable(
+                By.xpath("//div[contains(@class,'ant-select-selector')]")
+        ));
+        dropdown.click();
+        String listTier = "//div[@class='ant-select-item-option-content' and normalize-space()='%s']";
         driver.findElement(By.xpath(String.format(listTier, tier))).click();
     }
 
-    public void chosingApprove(String yn) {
+    public void choosingApprove(String yn) throws InterruptedException {
+        Thread.sleep(2000);
         String chosingYN = "//span[@class='ant-radio-label' and text() ='%s']";
         driver.findElement(By.xpath(String.format(chosingYN, yn))).click();
     }
@@ -113,15 +121,7 @@ public class MemberPage {
         driver.findElement(By.xpath(String.format(chosingFoodType, foodType))).click();
     }
 
-    By bottomScreen = By.xpath("//div[text()='© 2025 BurningBros All Rights Reserved.']");
-    public void scrollToBottom() {
-        WebElement element = driver.findElement(bottomScreen);
-        actions.moveToElement(element).perform();
-    }
-
     public void addRegistrationPath() {
-//        String listsocialNetwork = "//div[contains(@class,'ant-select-item-option-content') and text()='TV']";
-//        driver.findElement(By.xpath(String.format(listsocialNetwork, socialNetwork))).click();
         String optionXpath = "//div[contains(@class,'ant-select-item-option-content') and normalize-space()='%s']";
         driver.findElement(By.xpath(String.format(optionXpath, "TV"))).click();
     }

@@ -3,7 +3,7 @@ package scripts;
 import org.testng.annotations.Test;
 import pages.LoginPage;
 import pages.MemberPage;
-import java.util.UUID;
+
 
 
 
@@ -25,8 +25,8 @@ public class MemberTest extends BaseTest {
         loginPage.login("admin","123456");
         memberPage.accessCreateMemberPage();
 
-        memberPage.chosingTier("Friends Dumon");
-        memberPage.chosingApprove("승인");
+        memberPage.choosingTier("Silver Dumon");
+        memberPage.choosingApprove("승인");
 
         memberPage.inputID(userId, userName);
         memberPage.inputPwd("Thangchobo123");
@@ -43,7 +43,7 @@ public class MemberTest extends BaseTest {
         memberPage.DOB();
         memberPage.interesting("Grilled whole meat");
 
-        memberPage.scrollToBottom();
+
         memberPage.addRegistrationPath();
         memberPage.chosingDog("Other");
         memberPage.chosingCat("Other");

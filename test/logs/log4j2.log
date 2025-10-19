@@ -273,3 +273,844 @@
 [INFO ] 2025-10-08 18:14:38.771 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
 [INFO ] 2025-10-08 18:22:16.528 [main] BaseTest - Setting up WebDriver...
 [INFO ] 2025-10-08 18:22:20.370 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-15 16:02:16.464 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:05:51.248 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:07:56.752 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:15:59.912 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:25:13.380 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:28:13.986 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:28:37.421 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:31:06.347 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:32:17.548 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:35:55.682 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:38:23.021 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:42:41.013 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:42:46.186 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-15 16:42:53.447 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-15 16:56:57.750 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 16:57:00.338 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-15 17:49:24.840 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 17:49:28.391 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-15 17:52:33.244 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-15 17:52:35.803 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 13:23:12.588 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 13:23:17.537 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 13:25:22.785 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 13:25:26.085 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 13:28:52.533 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 13:28:55.497 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 13:30:23.280 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 13:30:26.121 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 13:35:04.225 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 13:35:07.355 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 13:36:37.761 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 13:36:40.632 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 13:37:54.554 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 13:37:57.867 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 14:39:04.006 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 14:39:09.560 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 14:42:05.608 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 14:42:08.903 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 14:48:25.004 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 14:48:28.017 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:18:08.746 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:18:12.516 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:19:34.036 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:19:36.446 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:25:40.689 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:25:43.525 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:27:00.863 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:27:03.662 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:28:02.901 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:28:05.865 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:29:39.888 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:29:51.548 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:29:53.991 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:37:39.843 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:37:42.336 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:39:12.878 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:39:15.816 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:39:42.685 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:39:45.475 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:44:08.630 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:44:11.740 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:47:55.681 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:47:58.181 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:48:11.200 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:48:13.623 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:49:43.654 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:49:46.160 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-16 16:55:54.773 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-16 16:55:57.752 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:11:45.875 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:11:54.271 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:12:31.394 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:12:37.170 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:16:05.386 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:16:11.253 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:20:20.772 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:20:25.877 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:20:37.435 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:21:02.749 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:21:07.797 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:21:18.160 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:21:23.290 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:21:28.332 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:21:30.005 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:22:49.505 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:22:54.755 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:23:06.266 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:24:23.865 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:24:29.837 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:24:31.966 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:24:54.354 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:24:59.696 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:25:01.326 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:26:54.529 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:26:59.830 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:27:01.683 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:28:18.098 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:28:23.104 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:28:24.851 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:35:39.545 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:35:44.724 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:35:56.316 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:36:45.723 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:36:50.779 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:37:02.802 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:40:42.270 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:40:47.553 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:40:53.690 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:41:32.795 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:41:38.616 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:41:55.015 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:43:12.258 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:43:17.581 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:43:23.201 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:43:45.005 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:43:49.824 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:43:53.643 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:45:47.177 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:45:52.197 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:46:05.971 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:47:05.957 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:47:10.926 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:47:24.858 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:48:21.311 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:48:26.409 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:48:40.215 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:51:09.246 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:51:14.136 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:51:28.500 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:54:09.188 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:54:14.258 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:54:28.001 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:57:47.653 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:57:52.694 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:58:06.551 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 14:58:54.511 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 14:58:59.434 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 14:59:13.299 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 15:01:00.241 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 15:01:05.407 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 15:01:09.877 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 15:21:53.595 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 15:22:02.123 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 15:22:07.497 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 15:33:17.118 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 15:33:22.918 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 15:33:38.431 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 15:34:57.909 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 15:35:03.007 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 15:35:07.289 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 15:35:31.738 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 15:35:37.701 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 15:35:43.888 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 15:37:00.860 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 15:37:05.923 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 15:37:10.709 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 15:37:20.355 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 15:37:25.136 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 15:37:40.225 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 15:43:31.344 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 15:43:36.383 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 15:43:51.712 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 15:49:29.867 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 15:49:35.224 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 15:49:42.977 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 15:53:33.377 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 15:53:38.429 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 15:53:53.889 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 15:58:26.844 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 15:58:32.386 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 15:58:47.541 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 16:07:26.974 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 16:07:32.010 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 16:07:48.490 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 16:35:49.171 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 16:35:55.651 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 16:36:11.586 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 16:38:10.145 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 16:38:15.366 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 16:38:25.025 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 16:47:30.584 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 16:47:35.589 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 16:47:49.634 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 16:51:15.130 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 16:51:20.218 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 16:51:34.184 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 16:52:20.605 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 16:52:25.501 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 16:52:42.312 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 17:09:20.538 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 17:09:26.096 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 17:09:27.808 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 17:12:20.308 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 17:12:25.323 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 17:12:26.734 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 17:12:28.006 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 17:12:28.103 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 17:12:28.182 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 17:12:28.281 [main] ProductPage - Approve these categories
+[INFO ] 2025-10-18 17:12:28.391 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 17:12:28.503 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 17:12:28.607 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 17:12:28.689 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 17:12:29.447 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 17:12:30.301 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 17:12:30.645 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 17:12:30.857 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 17:12:30.922 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 17:12:42.090 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 19:21:15.261 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 19:21:19.857 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 19:21:21.700 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 19:21:23.444 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:21:23.546 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:21:23.625 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:21:23.750 [main] ProductPage - Approve these categories
+[INFO ] 2025-10-18 19:21:23.858 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 19:21:24.008 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 19:21:24.126 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 19:21:24.245 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 19:21:24.271 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 19:24:04.808 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 19:24:07.303 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 19:24:08.832 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 19:24:10.109 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:24:10.213 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:24:10.292 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:24:10.424 [main] ProductPage - Approve these categories
+[INFO ] 2025-10-18 19:24:10.530 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 19:24:10.632 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 19:24:10.750 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 19:24:10.835 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 19:24:21.333 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 19:25:51.053 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 19:25:53.884 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 19:25:55.336 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 19:25:56.486 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:25:56.583 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:25:56.668 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:25:56.773 [main] ProductPage - Approve these categories
+[INFO ] 2025-10-18 19:25:56.908 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 19:25:57.036 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 19:25:57.220 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 19:25:57.356 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 19:25:57.624 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 19:25:58.405 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 19:25:58.722 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 19:25:58.914 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 19:25:59.001 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 19:25:59.007 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 19:26:12.625 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 19:26:15.320 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 19:26:16.720 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 19:26:18.179 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:26:18.286 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:26:18.369 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:26:18.482 [main] ProductPage - Approve these categories
+[INFO ] 2025-10-18 19:26:18.588 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 19:26:18.689 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 19:26:18.802 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 19:26:19.038 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 19:26:19.368 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 19:26:20.173 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 19:26:20.483 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 19:26:20.715 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 19:26:20.799 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 19:26:20.804 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 19:31:45.808 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 19:31:48.614 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 19:31:50.084 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 19:31:51.322 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:31:51.410 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:31:51.493 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:31:51.615 [main] ProductPage - Approve these categories
+[INFO ] 2025-10-18 19:31:51.720 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 19:31:51.827 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 19:31:51.943 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 19:31:52.054 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 19:31:52.358 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 19:31:53.240 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 19:31:53.599 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 19:31:53.820 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 19:31:53.905 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 19:32:04.671 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 19:34:56.589 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 19:34:59.483 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 19:35:03.387 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 19:35:04.785 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:35:04.927 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:35:05.005 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:35:05.111 [main] ProductPage - Approve these categories
+[INFO ] 2025-10-18 19:35:05.212 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 19:35:05.317 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 19:35:05.430 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 19:35:05.519 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 19:35:05.769 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 19:35:06.622 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 19:35:06.924 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 19:35:07.128 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 19:35:07.200 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 19:35:18.230 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 19:38:15.209 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 19:38:17.941 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 19:38:19.403 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 19:38:20.632 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:38:20.722 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:38:20.806 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:38:20.919 [main] ProductPage - Approve these categories
+[INFO ] 2025-10-18 19:38:21.047 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 19:38:21.159 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 19:38:21.277 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 19:38:21.373 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 19:38:21.827 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 19:38:22.675 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 19:38:22.946 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 19:38:23.192 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 19:38:23.287 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 19:38:34.324 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 19:51:04.192 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 19:51:07.859 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 19:51:09.362 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 19:51:10.549 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:51:10.642 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:51:10.740 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:51:10.852 [main] ProductPage - Approve these categories
+[INFO ] 2025-10-18 19:51:11.001 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 19:51:11.111 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 19:51:11.225 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 19:51:11.329 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 19:51:11.638 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 19:51:12.453 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 19:51:12.757 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 19:51:12.946 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 19:51:13.025 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 19:51:14.042 [main] ProductPage - ✅ Input start date OK for icon: 2
+[INFO ] 2025-10-18 19:51:14.770 [main] ProductPage - ✅ Input end date OK for icon: 2
+[INFO ] 2025-10-18 19:51:14.774 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 19:52:37.556 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 19:52:40.541 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 19:52:42.301 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 19:52:43.515 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:52:43.600 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:52:43.678 [main] ProductPage - Adding categories
+[INFO ] 2025-10-18 19:52:43.786 [main] ProductPage - Approve these categories
+[INFO ] 2025-10-18 19:52:43.898 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 19:52:44.000 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 19:52:44.293 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 19:52:44.415 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 19:52:44.677 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 19:52:45.491 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 19:52:45.792 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 19:52:46.004 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 19:52:46.074 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 19:52:47.756 [main] ProductPage - ✅ Input start date OK: 2025-10-18 19:52:46
+[INFO ] 2025-10-18 19:52:48.229 [main] ProductPage - ✅ Input end date OK 2025-11-17 19:52:46
+[INFO ] 2025-10-18 19:52:48.233 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 20:08:53.951 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 20:08:56.938 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 20:08:58.437 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 20:08:59.651 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:08:59.743 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:08:59.834 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:08:59.950 [main] ProductPage - Approve these categories completed
+[INFO ] 2025-10-18 20:09:00.064 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 20:09:00.198 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 20:09:00.330 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 20:09:00.449 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 20:09:00.754 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-18 20:09:00.754 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 20:09:01.546 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 20:09:01.836 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 20:09:02.035 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 20:09:02.124 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 20:09:02.180 [main] ProductPage - Uploaded time sales image completed
+[INFO ] 2025-10-18 20:09:02.256 [main] ProductPage - Uploaded product detail image completed
+[INFO ] 2025-10-18 20:09:03.985 [main] ProductPage - Input start date OK:2025-10-18 20:09:02
+[INFO ] 2025-10-18 20:09:04.465 [main] ProductPage - Input end date OK:2025-11-17 20:09:02
+[INFO ] 2025-10-18 20:09:05.640 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 20:09:49.367 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 20:09:51.859 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 20:09:53.333 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 20:09:54.537 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:09:54.625 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:09:54.709 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:09:54.841 [main] ProductPage - Approve these categories completed
+[INFO ] 2025-10-18 20:09:54.954 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 20:09:55.064 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 20:09:55.189 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 20:09:55.279 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 20:09:55.702 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-18 20:09:55.703 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 20:09:56.540 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 20:09:56.829 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 20:09:57.049 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 20:09:57.140 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 20:09:57.191 [main] ProductPage - Uploaded time sales image completed
+[INFO ] 2025-10-18 20:09:57.240 [main] ProductPage - Uploaded product detail image completed
+[INFO ] 2025-10-18 20:09:58.893 [main] ProductPage - Input start date OK:2025-10-18 20:09:57
+[INFO ] 2025-10-18 20:09:59.425 [main] ProductPage - Input end date OK:2025-11-17 20:09:57
+[INFO ] 2025-10-18 20:09:59.431 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 20:13:57.453 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 20:14:00.078 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 20:14:20.084 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 20:14:33.229 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 20:14:42.962 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 20:14:44.612 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:14:44.702 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:14:44.781 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:14:44.879 [main] ProductPage - Approve these categories completed
+[INFO ] 2025-10-18 20:14:44.986 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 20:14:45.090 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 20:14:45.203 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 20:14:45.290 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 20:14:45.549 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-18 20:14:45.550 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 20:14:46.334 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 20:14:46.629 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 20:14:46.853 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 20:14:46.925 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 20:14:46.971 [main] ProductPage - Uploaded time sales image completed
+[INFO ] 2025-10-18 20:14:47.032 [main] ProductPage - Uploaded product detail image completed
+[INFO ] 2025-10-18 20:14:48.879 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 20:22:09.598 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 20:22:13.004 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 20:22:14.408 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 20:22:15.693 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:22:15.781 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:22:15.864 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:22:15.970 [main] ProductPage - Approve these categories completed
+[INFO ] 2025-10-18 20:22:16.074 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 20:22:16.192 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 20:22:16.298 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 20:22:16.394 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 20:22:16.777 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-18 20:22:16.778 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 20:22:17.656 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 20:22:17.963 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 20:22:18.200 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 20:22:18.288 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 20:22:18.328 [main] ProductPage - Uploaded time sales image completed
+[INFO ] 2025-10-18 20:22:18.378 [main] ProductPage - Uploaded product detail image completed
+[INFO ] 2025-10-18 20:22:20.268 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 20:23:33.592 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 20:23:36.180 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 20:23:37.638 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 20:23:38.805 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:23:38.925 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:23:39.023 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:23:39.157 [main] ProductPage - Approve these categories completed
+[INFO ] 2025-10-18 20:23:39.287 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 20:23:39.396 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 20:23:39.512 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 20:23:39.599 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 20:23:40.046 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-18 20:23:40.046 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 20:23:40.853 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 20:23:41.127 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 20:23:41.352 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 20:23:41.444 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 20:23:41.497 [main] ProductPage - Uploaded time sales image completed
+[INFO ] 2025-10-18 20:23:41.564 [main] ProductPage - Uploaded product detail image completed
+[INFO ] 2025-10-18 20:23:43.213 [main] ProductPage - Input start date OK:2025-10-18 20:23:41
+[INFO ] 2025-10-18 20:23:43.725 [main] ProductPage - Input end date OK:2025-11-17 20:23:41
+[INFO ] 2025-10-18 20:23:44.812 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 20:27:54.930 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 20:27:57.434 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 20:27:58.911 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 20:28:00.130 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:28:00.217 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:28:00.302 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:28:00.412 [main] ProductPage - Approve these categories completed
+[INFO ] 2025-10-18 20:28:00.521 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 20:28:00.630 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 20:28:00.747 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 20:28:00.838 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 20:28:01.278 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-18 20:28:01.279 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 20:28:02.112 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 20:28:02.428 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 20:28:02.641 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 20:28:02.727 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 20:28:02.778 [main] ProductPage - Uploaded time sales image completed
+[INFO ] 2025-10-18 20:28:02.831 [main] ProductPage - Uploaded product detail image completed
+[INFO ] 2025-10-18 20:28:04.560 [main] ProductPage - Input start date OK:2025-10-18 20:28:02
+[INFO ] 2025-10-18 20:28:05.022 [main] ProductPage - Input end date OK:2025-11-17 20:28:02
+[INFO ] 2025-10-18 20:28:05.023 [main] ProductPage - Choosing tag and set display completed
+[INFO ] 2025-10-18 20:28:06.622 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 20:30:04.868 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 20:30:07.394 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 20:30:08.763 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 20:30:10.036 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:30:10.145 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:30:10.226 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:30:10.332 [main] ProductPage - Approve these categories completed
+[INFO ] 2025-10-18 20:30:10.434 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 20:30:10.603 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 20:30:10.710 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 20:30:10.797 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 20:30:11.051 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-18 20:30:11.051 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 20:30:12.027 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 20:30:12.295 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 20:30:12.520 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 20:30:12.589 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 20:30:12.633 [main] ProductPage - Uploaded time sales image completed
+[INFO ] 2025-10-18 20:30:12.686 [main] ProductPage - Uploaded product detail image completed
+[INFO ] 2025-10-18 20:30:14.423 [main] ProductPage - Input start date OK:2025-10-18 20:30:12
+[INFO ] 2025-10-18 20:30:14.894 [main] ProductPage - Input end date OK:2025-11-17 20:30:12
+[INFO ] 2025-10-18 20:30:14.894 [main] ProductPage - Choosing tag and set display completed
+[INFO ] 2025-10-18 20:30:14.898 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 20:31:12.202 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 20:31:14.726 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 20:31:16.239 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 20:31:17.487 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:31:17.589 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:31:17.694 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:31:17.802 [main] ProductPage - Approve these categories completed
+[INFO ] 2025-10-18 20:31:17.920 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 20:31:18.035 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 20:31:18.152 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 20:31:18.241 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 20:31:18.692 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-18 20:31:18.693 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 20:31:19.517 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 20:31:19.811 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 20:31:20.036 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 20:31:20.122 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 20:31:20.169 [main] ProductPage - Uploaded time sales image completed
+[INFO ] 2025-10-18 20:31:20.219 [main] ProductPage - Uploaded product detail image completed
+[INFO ] 2025-10-18 20:31:21.876 [main] ProductPage - Input start date OK:2025-10-18 20:31:20
+[INFO ] 2025-10-18 20:31:22.386 [main] ProductPage - Input end date OK:2025-11-17 20:31:20
+[INFO ] 2025-10-18 20:31:22.386 [main] ProductPage - Choosing tag and set display completed
+[INFO ] 2025-10-18 20:31:23.547 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 20:35:46.037 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 20:35:48.603 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 20:35:49.995 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 20:35:51.208 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:35:51.307 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:35:51.387 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:35:51.514 [main] ProductPage - Approve these categories completed
+[INFO ] 2025-10-18 20:35:51.621 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 20:35:51.733 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 20:35:51.839 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 20:35:51.932 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 20:35:52.391 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-18 20:35:52.392 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 20:35:53.250 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 20:35:53.516 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 20:35:53.735 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 20:35:53.813 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 20:35:53.868 [main] ProductPage - Uploaded time sales image completed
+[INFO ] 2025-10-18 20:35:53.919 [main] ProductPage - Uploaded product detail image completed
+[INFO ] 2025-10-18 20:35:55.652 [main] ProductPage - Input start date OK:2025-10-18 20:35:53
+[INFO ] 2025-10-18 20:35:56.257 [main] ProductPage - Input end date OK:2025-11-17 20:35:53
+[INFO ] 2025-10-18 20:35:56.258 [main] ProductPage - Choosing tag and set display completed
+[INFO ] 2025-10-18 20:35:57.847 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-18 20:37:50.641 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-18 20:37:53.473 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-18 20:37:55.095 [main] ProductPage - Access to register product page
+[INFO ] 2025-10-18 20:37:56.451 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:37:56.540 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:37:56.626 [main] ProductPage - Adding categories completed
+[INFO ] 2025-10-18 20:37:56.733 [main] ProductPage - Approve these categories completed
+[INFO ] 2025-10-18 20:37:56.851 [main] ProductPage - Chossing this category option
+[INFO ] 2025-10-18 20:37:56.975 [main] ProductPage - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-18 20:37:57.088 [main] ProductPage - Tick checkbox for web in check display
+[INFO ] 2025-10-18 20:37:57.176 [main] ProductPage - Tick checkbox for mobile in check display
+[INFO ] 2025-10-18 20:37:57.656 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-18 20:37:57.657 [main] ProductPage - Set display time completed
+[INFO ] 2025-10-18 20:37:58.483 [main] ProductPage - Chosen approvemently for member level
+[INFO ] 2025-10-18 20:37:58.783 [main] ProductPage - Input product name completed
+[INFO ] 2025-10-18 20:37:58.987 [main] ProductPage - Input keyword completed
+[INFO ] 2025-10-18 20:37:59.052 [main] ProductPage - Uploaded product thumbnail image completed
+[INFO ] 2025-10-18 20:37:59.100 [main] ProductPage - Uploaded time sales image completed
+[INFO ] 2025-10-18 20:37:59.138 [main] ProductPage - Uploaded product detail image completed
+[INFO ] 2025-10-18 20:38:00.831 [main] ProductPage - Input start date OK:2025-10-18 20:37:59
+[INFO ] 2025-10-18 20:38:01.349 [main] ProductPage - Input end date OK:2025-11-17 20:37:59
+[INFO ] 2025-10-18 20:38:01.349 [main] ProductPage - Choosing tag and set display completed
+[INFO ] 2025-10-18 20:38:01.353 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 14:48:43.435 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 14:48:53.802 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 14:48:54.109 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 14:48:55.547 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 14:48:57.516 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 14:48:57.619 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 14:48:57.811 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 14:48:57.916 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 14:48:58.032 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 14:48:58.333 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 14:48:58.333 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 14:48:59.149 [main] BaseTest - Chosen approvemently for member level
+[INFO ] 2025-10-19 14:48:59.457 [main] BaseTest - Input product name completed
+[INFO ] 2025-10-19 14:48:59.722 [main] BaseTest - Input keyword completed
+[INFO ] 2025-10-19 14:48:59.797 [main] BaseTest - Uploaded product thumbnail image completed
+[INFO ] 2025-10-19 14:48:59.846 [main] BaseTest - Uploaded time sales image completed
+[INFO ] 2025-10-19 14:48:59.907 [main] BaseTest - Uploaded product detail image completed
+[INFO ] 2025-10-19 14:49:00.906 [main] ProductPage - Input start date OK:2025-10-19 14:48:59
+[INFO ] 2025-10-19 14:49:01.611 [main] ProductPage - Input end date OK:2025-11-18 14:48:59
+[INFO ] 2025-10-19 14:49:01.614 [main] BaseTest - Choosing tag and set display completed
+[INFO ] 2025-10-19 14:49:01.619 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 15:20:10.217 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 15:20:15.477 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 15:20:15.757 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 15:20:16.859 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 15:20:18.343 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 15:20:18.453 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 15:20:18.553 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 15:20:18.660 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 15:20:18.743 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 15:20:18.991 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 15:20:18.991 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 15:20:19.788 [main] BaseTest - Chosen approvemently for member level display
+[INFO ] 2025-10-19 15:20:29.842 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 15:24:10.701 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 15:24:16.689 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 15:24:17.117 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 15:24:18.368 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 15:24:19.821 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 15:24:19.949 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 15:24:20.096 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 15:24:20.193 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 15:24:20.270 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 15:24:20.544 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 15:24:20.544 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 15:24:21.325 [main] BaseTest - Chosen approvemently for member level display
+[INFO ] 2025-10-19 15:24:21.430 [main] BaseTest - Tick checkbox for web in check sale
+[INFO ] 2025-10-19 15:24:21.529 [main] BaseTest - Tick checkbox for mobile in check sale
+[INFO ] 2025-10-19 15:24:21.826 [main] BaseTest - Input product name completed
+[INFO ] 2025-10-19 15:24:22.080 [main] BaseTest - Input keyword completed
+[INFO ] 2025-10-19 15:24:22.159 [main] BaseTest - Uploaded product thumbnail image completed
+[INFO ] 2025-10-19 15:24:22.194 [main] BaseTest - Uploaded time sales image completed
+[INFO ] 2025-10-19 15:24:22.237 [main] BaseTest - Uploaded product detail image completed
+[INFO ] 2025-10-19 15:24:24.086 [main] ProductPage - Input start date OK:2025-10-19 15:24:22
+[INFO ] 2025-10-19 15:24:24.658 [main] ProductPage - Input end date OK:2025-11-18 15:24:22
+[INFO ] 2025-10-19 15:24:24.658 [main] BaseTest - Choosing tag and set display completed
+[INFO ] 2025-10-19 15:24:24.658 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 15:38:10.761 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 15:38:15.700 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 15:38:16.020 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 15:38:17.271 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 15:38:18.774 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 15:38:18.926 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 15:38:19.065 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 15:38:19.176 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 15:38:19.266 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 15:38:19.510 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 15:38:19.510 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 15:38:20.299 [main] BaseTest - Chosen approvemently for member level display
+[INFO ] 2025-10-19 15:38:20.396 [main] BaseTest - Tick checkbox for web in check sale
+[INFO ] 2025-10-19 15:38:20.489 [main] BaseTest - Tick checkbox for mobile in check sale
+[INFO ] 2025-10-19 15:38:41.129 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 15:45:24.659 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 15:45:29.736 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 15:45:30.048 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 15:45:31.214 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 15:45:32.726 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 15:45:32.821 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 15:45:32.919 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 15:45:33.019 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 15:45:33.114 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 15:45:33.369 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 15:45:33.369 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 15:45:34.155 [main] BaseTest - Chosen approvemently for member level display
+[INFO ] 2025-10-19 15:45:34.265 [main] BaseTest - Tick checkbox for web in check sale
+[INFO ] 2025-10-19 15:45:34.352 [main] BaseTest - Tick checkbox for mobile in check sale
+[INFO ] 2025-10-19 15:45:34.589 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 15:45:34.589 [main] BaseTest - Set sale time completed
+[INFO ] 2025-10-19 15:45:35.752 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 16:00:29.637 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 16:00:36.157 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 16:00:36.432 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 16:00:37.981 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 16:00:39.473 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 16:00:39.585 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 16:00:39.684 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 16:00:39.817 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 16:00:39.927 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 16:00:40.185 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:00:40.185 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 16:00:41.000 [main] BaseTest - Chosen approvemently for member level display
+[INFO ] 2025-10-19 16:00:41.136 [main] BaseTest - Tick checkbox for web in check sale
+[INFO ] 2025-10-19 16:00:41.239 [main] BaseTest - Tick checkbox for mobile in check sale
+[INFO ] 2025-10-19 16:00:41.483 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:00:41.483 [main] BaseTest - Set sale time completed
+[INFO ] 2025-10-19 16:00:51.581 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 16:03:32.278 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 16:03:38.009 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 16:03:38.287 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 16:03:39.705 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 16:03:41.276 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 16:03:41.360 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 16:03:41.460 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 16:03:41.581 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 16:03:41.653 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 16:03:41.911 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:03:41.911 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 16:03:42.693 [main] BaseTest - Chosen approvemently for member level display
+[INFO ] 2025-10-19 16:03:42.802 [main] BaseTest - Tick checkbox for web in check sale
+[INFO ] 2025-10-19 16:03:42.893 [main] BaseTest - Tick checkbox for mobile in check sale
+[INFO ] 2025-10-19 16:03:43.132 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:03:43.132 [main] BaseTest - Set sale time completed
+[INFO ] 2025-10-19 16:03:53.643 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 16:05:11.452 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 16:05:17.015 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 16:05:17.302 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 16:05:18.701 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 16:05:20.170 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 16:05:20.275 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 16:05:20.402 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 16:05:20.527 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 16:05:20.606 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 16:05:20.856 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:05:20.856 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 16:05:21.641 [main] BaseTest - Chosen approvemently for member level display
+[INFO ] 2025-10-19 16:05:21.748 [main] BaseTest - Tick checkbox for web in check sale
+[INFO ] 2025-10-19 16:05:21.845 [main] BaseTest - Tick checkbox for mobile in check sale
+[INFO ] 2025-10-19 16:05:22.063 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:05:22.063 [main] BaseTest - Set sale time completed
+[INFO ] 2025-10-19 16:05:32.141 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 16:06:19.732 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 16:06:24.878 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 16:06:25.167 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 16:06:26.415 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 16:06:27.908 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 16:06:28.023 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 16:06:28.121 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 16:06:28.221 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 16:06:28.310 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 16:06:28.552 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:06:28.554 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 16:06:29.345 [main] BaseTest - Chosen approvemently for member level display
+[INFO ] 2025-10-19 16:06:29.450 [main] BaseTest - Tick checkbox for web in check sale
+[INFO ] 2025-10-19 16:06:29.545 [main] BaseTest - Tick checkbox for mobile in check sale
+[INFO ] 2025-10-19 16:06:29.760 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:06:29.760 [main] BaseTest - Set sale time completed
+[INFO ] 2025-10-19 16:06:29.878 [main] ProductPage - Dropdown for SALE (Members) clicked.
+[INFO ] 2025-10-19 16:06:39.950 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 16:07:36.636 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 16:07:41.919 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 16:07:42.236 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 16:07:43.580 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 16:07:45.094 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 16:07:45.211 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 16:07:45.339 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 16:07:45.492 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 16:07:45.603 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 16:07:45.850 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:07:45.850 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 16:07:46.627 [main] BaseTest - Chosen approvemently for member level display
+[INFO ] 2025-10-19 16:07:46.730 [main] BaseTest - Tick checkbox for web in check sale
+[INFO ] 2025-10-19 16:07:46.826 [main] BaseTest - Tick checkbox for mobile in check sale
+[INFO ] 2025-10-19 16:07:47.068 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:07:47.068 [main] BaseTest - Set sale time completed
+[INFO ] 2025-10-19 16:07:47.211 [main] ProductPage - Dropdown for SALE (Members) clicked.
+[INFO ] 2025-10-19 16:07:57.275 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 16:37:24.814 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 16:37:30.083 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 16:37:30.357 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 16:37:31.692 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 16:37:33.218 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 16:37:33.309 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 16:37:33.409 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 16:37:33.526 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 16:37:33.605 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 16:37:33.850 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:37:33.850 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 16:37:46.221 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 16:39:28.121 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 16:39:33.277 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 16:39:33.566 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 16:39:34.886 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 16:39:36.338 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 16:39:36.443 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 16:39:36.541 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 16:39:36.645 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 16:39:36.722 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 16:39:37.034 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:39:37.034 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 16:39:37.832 [main] BaseTest - Chosen approvemently for member level display
+[INFO ] 2025-10-19 16:39:37.929 [main] BaseTest - Tick checkbox for web in check sale
+[INFO ] 2025-10-19 16:39:38.021 [main] BaseTest - Tick checkbox for mobile in check sale
+[INFO ] 2025-10-19 16:39:38.256 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:39:38.256 [main] BaseTest - Set sale time completed
+[INFO ] 2025-10-19 16:39:38.378 [main] ProductPage - Dropdown for SALE (Members) clicked.
+[INFO ] 2025-10-19 16:39:38.410 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 16:53:47.205 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 16:53:53.000 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 16:53:53.272 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 16:53:54.606 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 16:53:56.122 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 16:53:56.231 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 16:53:56.375 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 16:53:56.517 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 16:53:56.607 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 16:53:56.871 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:53:56.871 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 16:53:57.629 [main] BaseTest - Chosen approvemently for member level display
+[INFO ] 2025-10-19 16:53:57.737 [main] BaseTest - Tick checkbox for web in check sale
+[INFO ] 2025-10-19 16:53:57.836 [main] BaseTest - Tick checkbox for mobile in check sale
+[INFO ] 2025-10-19 16:53:58.102 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 16:53:58.102 [main] BaseTest - Set sale time completed
+[INFO ] 2025-10-19 16:53:58.235 [main] ProductPage - Dropdown for SALE (Members) clicked.
+[INFO ] 2025-10-19 16:53:58.342 [main] ProductPage - Selected sale member level: Silver Dumon
+[INFO ] 2025-10-19 16:53:58.342 [main] BaseTest - Chosen approvemently for member level sale
+[INFO ] 2025-10-19 16:53:58.630 [main] BaseTest - Input product name completed
+[INFO ] 2025-10-19 16:53:58.834 [main] BaseTest - Input keyword completed
+[INFO ] 2025-10-19 16:53:58.901 [main] BaseTest - Uploaded product thumbnail image completed
+[INFO ] 2025-10-19 16:53:58.945 [main] BaseTest - Uploaded time sales image completed
+[INFO ] 2025-10-19 16:53:59.004 [main] BaseTest - Uploaded product detail image completed
+[INFO ] 2025-10-19 16:54:00.539 [main] ProductPage - Input start date OK:2025-10-19 16:53:59
+[INFO ] 2025-10-19 16:54:00.950 [main] ProductPage - Input end date OK:2025-11-18 16:53:59
+[INFO ] 2025-10-19 16:54:00.950 [main] BaseTest - Choosing tag and set display completed
+[INFO ] 2025-10-19 16:54:00.950 [main] BaseTest - Closing browser and quitting WebDriver...
+[INFO ] 2025-10-19 17:01:36.776 [main] BaseTest - Setting up WebDriver...
+[INFO ] 2025-10-19 17:01:44.052 [main] BaseTest - Navigated to test site: https://dhuman-vercel-cn2g.vercel.app/signin
+[INFO ] 2025-10-19 17:01:44.410 [main] BaseTest - Log in successfully
+[INFO ] 2025-10-19 17:01:45.911 [main] BaseTest - Access to register product page
+[INFO ] 2025-10-19 17:01:47.918 [main] BaseTest - Adding categories completed
+[INFO ] 2025-10-19 17:01:48.014 [main] BaseTest - Chosen these categories completed
+[INFO ] 2025-10-19 17:01:48.136 [main] BaseTest - Checked 상단 고정진열 적용 (체크 시 선택된 모든 카테고리의 쇼핑몰 상품 페이지 최상단에 진열됩니다.)
+[INFO ] 2025-10-19 17:01:48.274 [main] BaseTest - Tick checkbox for web in check display
+[INFO ] 2025-10-19 17:01:48.364 [main] BaseTest - Tick checkbox for mobile in check display
+[INFO ] 2025-10-19 17:01:48.587 [main] ProductPage - Choosing option for display date completed
+[INFO ] 2025-10-19 17:01:48.587 [main] BaseTest - Set display time completed
+[INFO ] 2025-10-19 17:01:54.580 [main] BaseTest - Chosen approvemently for member level display
+[INFO ] 2025-10-19 17:01:54.698 [main] BaseTest - Tick checkbox for web in check sale
+[INFO ] 2025-10-19 17:01:54.813 [main] BaseTest - Tick checkbox for mobile in check sale
+[INFO ] 2025-10-19 17:01:55.044 [main] ProductPage - Choosing option date completed
+[INFO ] 2025-10-19 17:01:55.044 [main] BaseTest - Set sale time completed
+[INFO ] 2025-10-19 17:01:55.168 [main] ProductPage - Dropdown for SALE clicked.
+[INFO ] 2025-10-19 17:01:55.329 [main] ProductPage - Selected sale member level
+[INFO ] 2025-10-19 17:01:55.329 [main] BaseTest - Chosen approvemently for member level sale
+[INFO ] 2025-10-19 17:01:55.627 [main] BaseTest - Input product name completed
+[INFO ] 2025-10-19 17:01:55.851 [main] BaseTest - Input keyword completed
+[INFO ] 2025-10-19 17:01:55.921 [main] BaseTest - Uploaded product thumbnail image completed
+[INFO ] 2025-10-19 17:01:55.966 [main] BaseTest - Uploaded time sales image completed
+[INFO ] 2025-10-19 17:01:56.013 [main] BaseTest - Uploaded product detail image completed
+[INFO ] 2025-10-19 17:01:57.543 [main] ProductPage - Input start date for tag
+[INFO ] 2025-10-19 17:01:57.956 [main] ProductPage - Input end date for tag
+[INFO ] 2025-10-19 17:01:57.957 [main] BaseTest - Choosing tag and set display completed
+[INFO ] 2025-10-19 17:01:57.960 [main] BaseTest - Closing browser and quitting WebDriver...
