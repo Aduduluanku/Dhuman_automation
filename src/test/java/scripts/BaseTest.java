@@ -39,15 +39,15 @@ public class BaseTest {
         return driver;
     }
 
-    @AfterMethod
-    public void tearDown() throws InterruptedException {
-        if (driver != null) {
-            logger.info("Closing browser and quitting WebDriver...");
-            Thread.sleep(3000);
-            driver.quit();
-        }
-
-    }
+//    @AfterMethod
+//    public void tearDown() throws InterruptedException {
+//        if (driver != null) {
+//            logger.info("Closing browser and quitting WebDriver...");
+//            Thread.sleep(3000);
+//            driver.quit();
+//        }
+//
+//    }
 }
 
 

@@ -1,6 +1,7 @@
 package pages;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 
 import org.openqa.selenium.WebElement;
@@ -11,14 +12,20 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 import java.time.Instant;
+import java.util.List;
+import java.util.NoSuchElementException;
 import java.util.Random;
 
 
 public class MemberPage {
     WebDriver driver;
     Actions actions;
+    WebDriverWait wait;
     public MemberPage(WebDriver driver) {
         this.driver = driver;
+        this.actions = new Actions(driver);
+        this.wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
     }
 
     public void accessCreateMemberPage() {
@@ -27,7 +34,6 @@ public class MemberPage {
     }
 
     public void choosingTier(String tier) {
-        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
         WebElement dropdown = wait.until(ExpectedConditions.elementToBeClickable(
                 By.xpath("//div[contains(@class,'ant-select-selector')]")
         ));
@@ -64,9 +70,6 @@ public class MemberPage {
         driver.findElement(By.xpath("//input[@id=\"emailPrefix\"]")).sendKeys(infront);
         driver.findElement(By.xpath("//input[@id=\"emailDomain\"]")).sendKeys(below);
 
-//        driver.findElement(By.xpath("//div[@class=\"ant-form-item mb-0 min-w-[100px] w-[200px] css-qyo09v ant-form-item-has-success ant-form-item-horizontal\"]")).click();
-//        //String locatorMail = "(//span[@class=\"ant-select-selection-item\"])[last()]and text()='%s']";
-//        driver.findElement(By.xpath(String.format(locator, "hotmail.com"))).click();
     }
 
 
@@ -122,18 +125,22 @@ public class MemberPage {
     }
 
     public void addRegistrationPath() {
+        driver.findElement(By.xpath("//div[@class=\"ant-select ant-select-sm ant-select-outlined ant-select-in-form-item w-full css-16vopgk ant-select-single ant-select-show-arrow ant-select-show-search\"]")).click();
         String optionXpath = "//div[contains(@class,'ant-select-item-option-content') and normalize-space()='%s']";
         driver.findElement(By.xpath(String.format(optionXpath, "TV"))).click();
     }
 
-    public void chosingDog(String dog) {
-        String listDog = "//span[@class='ant-select-selection-placeholder' and text()='%s']";
+
+    public void choosingDog(String searchDog, String dog ) {
+        driver.findElement(By.id("dogCategory")).sendKeys(searchDog);
+        String listDog = "//div[contains(@class,'ant-select-item-option-content') and normalize-space()='%s']";
         driver.findElement(By.xpath(String.format(listDog, dog))).click();
     }
 
-    public void chosingCat(String cat) {
-        String listCat = "//span[@class='ant-select-selection-placeholder' and text()='%s']";
-        driver.findElement(By.xpath(String.format(listCat, cat))).click();
+    public void choosingCat(String searchCat, String cat) {
+        driver.findElement(By.id("catCategory")).sendKeys(searchCat);
+        String listDog = "(//div[contains(@class,'ant-select-item-option-content') and normalize-space()='%s'])[2]";
+        driver.findElement(By.xpath(String.format(listDog, cat))).click();
     }
 
     public void petDOB() {
@@ -152,6 +159,10 @@ public class MemberPage {
             default:
                 maxDay = 31;
         }
+        int day = random.nextInt(maxDay) + 1;
+        String dob = String.format("%04d-%02d-%02d", year, month, day);
+        driver.findElement(By.xpath("//input[@id='petDob']")).sendKeys(dob);
+
 
     }
 }

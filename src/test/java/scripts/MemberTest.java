@@ -45,8 +45,8 @@ public class MemberTest extends BaseTest {
 
 
         memberPage.addRegistrationPath();
-        memberPage.chosingDog("Other");
-        memberPage.chosingCat("Other");
+        memberPage.choosingDog("Other", "Other");
+        memberPage.choosingCat("Other", "Other");
         memberPage.petDOB();
     }
 
